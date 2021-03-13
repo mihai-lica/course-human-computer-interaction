@@ -1,1 +1,1 @@
-# course-human-computer-interaction
+# Human-Computer Interaction course presentation support
